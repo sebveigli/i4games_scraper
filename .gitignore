@@ -1,0 +1,5 @@
+raw/
+recsbak/
+venv/
+**/*.pyc
+settings.json
