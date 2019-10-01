@@ -1,9 +1,10 @@
-from raw_data_fetcher import RawDataFetcher
-from raw_compiler import RawCompiler
+from src.service_factory import ServiceFactory
 
 if __name__ == '__main__':
+    rdfs = ServiceFactory.get_raw_data_fetcher_service()
+    rcs = ServiceFactory.get_raw_compiler_service()
     print('Getting all user record data')
-    RawDataFetcher.run_for_all_users()
+    rdfs.run_for_all_users()
     print('Compiling...')
-    RawCompiler.compile_all_records()
+    rcs.compile_all_records()
     print('Done!')

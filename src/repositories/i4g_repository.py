@@ -37,7 +37,7 @@ BANNED_PLAYERS_MAP = {
     '22368': 'UnRealMaster',
     '2320': 'Yoda',
     '24339': 'Nikunat.)',
-    '23644': 'metanet',
+    '24644': 'metanet',
     '24830': 'oC.dEv^',
     '24947': 'isotoxin',
     '25043': 'eternity',
@@ -56,6 +56,8 @@ BANNED_PLAYERS_MAP = {
     '27164': 'newblood',
     '27658': 'Tsee',
     '27673': 'C&C`',
+    '27739': 'Sleepless',
+    '27786': 'MoMiLii',
     '3269': 'SnOOp',
     '3352': 'Kiji',
     '3414': 'Zeiksnor',
@@ -65,12 +67,13 @@ BANNED_PLAYERS_MAP = {
     '5918': 'teleport',
     '6176': 'leltee',
     '683': 'fighter',
-    '7575': 'Blue-Ice',
-    '8628': '-uV-Squid^-',
+    '7576': 'Blue-Ice',
+    '8528': '-uV-Squid^-',
     '8608': '5ive',
     '8700': 'HyPer][',
     '9138': 'appolon',
-    '9326': 'N.E.R.D.'
+    '9326': 'N.E.R.D.',
+    '9506': 'KnoW',
 }
 
 
