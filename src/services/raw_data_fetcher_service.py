@@ -10,7 +10,7 @@ class RawDataFetcherService:
 
         print('Most recently registered user is {0}, searching from UID 1 -> {0}'.format(latest_user))
         for user_id in range(1, latest_user + 1):
-            RawDataFetcher.run_for_user(user_id)
+            RawDataFetcherService.run_for_user(user_id)
 
     @staticmethod
     def run_for_user(user_id):

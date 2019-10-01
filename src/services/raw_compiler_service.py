@@ -21,7 +21,3 @@ class RawCompilerService:
             final_df = final_df.append(df)
 
         final_df.to_csv('compiled\\all.csv', index=False)
-
-
-rcs = RawCompilerService()
-rcs.compile_all_records()

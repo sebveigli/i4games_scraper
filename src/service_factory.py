@@ -7,5 +7,6 @@ class ServiceFactory:
     def get_raw_compiler_service():
         return RawCompilerService()
 
+    @staticmethod
     def get_raw_data_fetcher_service():
         return RawDataFetcherService()
