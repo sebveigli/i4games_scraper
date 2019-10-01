@@ -1,4 +1,4 @@
-i4Games Record Collector
+h1. i4Games Record Collector
 
 i4Games.eu has hosted Unreal Tournament 1999 BunnyTrack servers since the early 2000s, and whilst the game is no longer fully active - years and years were spent mastering thousands of maps.
 
