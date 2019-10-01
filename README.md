@@ -1,4 +1,4 @@
-h1. i4Games Record Collector
+# i4Games Record Collector
 
 i4Games.eu has hosted Unreal Tournament 1999 BunnyTrack servers since the early 2000s, and whilst the game is no longer fully active - years and years were spent mastering thousands of maps.
 
@@ -8,8 +8,8 @@ It searches every record page (certified and non-certified), and concatenates th
 
 This tool is also able to search the records of *all* banned players, even if the accounts can no longer be accessed through traditional ways. Most banned player IDs have been mapped with the exception of a few. A player is considered banned when their record times are not on leaderboards (usually due to cheating).
 
-Install requirements via pip install -r requirements.txt
+##### Install requirements via pip install -r requirements.txt
 
-Run using python main.py
+##### Run using python main.py
 
-This tool will take about 4/5 hours to completely run, please do not abuse it, and use at your own risk as it sends a lot of requests over that time. The most recent record database will always be found in the compiled\ folder.
+###### This tool will take about 4/5 hours to completely run, please do not abuse it, and use at your own risk as it sends a lot of requests over that time. The most recent record database will always be found in the compiled\ folder.
